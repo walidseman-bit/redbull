@@ -1,0 +1,6 @@
+{
+  "name": "Apex Velocity",
+  "description": "A world-class, premium marketing and showcase showcase website for Apex Velocity energy drinks, inspired by performance and extreme sports lifestyle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
